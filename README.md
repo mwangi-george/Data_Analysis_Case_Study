@@ -1,5 +1,6 @@
 # Data_Analysis_Case_Study
 This repo hosts a case study that you can use to tests your data analysis skills. 
+Navigate to the datasets folder of this repository and find the dataset for this task (mobile_money_data.csv).
 
 # The Task
 A certain company has recently finished the data collection for a project on the use of Mobile Money services and the experiences of Mobile Money customers in three districts of Kenya.
